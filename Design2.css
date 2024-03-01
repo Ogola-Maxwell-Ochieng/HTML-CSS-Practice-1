@@ -191,7 +191,7 @@ h4 {
   .button2 {
     display: block;
     background-color: rgb(30, 216, 30);
-    max-width: 30px;
+    max-width: 20%;
     border: 0px solid;
     border-radius: 5px;
     font-size: 17px;
